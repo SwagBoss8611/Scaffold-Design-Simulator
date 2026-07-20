@@ -17,6 +17,8 @@ Skin, Cartilage, Bone, Cardiac Muscle, Tendon, Nerve, Liver
 ## Model Examples
 
 <img width="1111" height="690" alt="image" src="https://github.com/user-attachments/assets/f33db5c8-ca7f-40f2-bbe2-37278f310301" />
+<img width="777" height="734" alt="Screenshot 2026-07-20 155517" src="https://github.com/user-attachments/assets/aa975f57-77b2-49d3-8394-e243fbeef6f1" />
+
 
 
 ## How to run it
