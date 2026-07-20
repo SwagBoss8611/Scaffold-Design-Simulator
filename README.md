@@ -14,6 +14,11 @@ Scaffold degradation rate needs to match tissue healing time — different rates
 ## Tissues modeled
 Skin, Cartilage, Bone, Cardiac Muscle, Tendon, Nerve, Liver
 
+## Model Examples
+
+<img width="1111" height="690" alt="image" src="https://github.com/user-attachments/assets/f33db5c8-ca7f-40f2-bbe2-37278f310301" />
+
+
 ## How to run it
 Open the `.ipynb` file in JupyterLab or VS Code with the Jupyter extension. Required libraries:
 - numpy
